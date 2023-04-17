@@ -1,0 +1,8 @@
+# Ignore artifacts:
+src/config.app.js
+build
+coverage
+.next
+.kubernetes
+# Ignore all HTML files:
+*.html
